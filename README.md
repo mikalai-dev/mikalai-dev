@@ -3,7 +3,6 @@
 
 # 💫 About Me:
 My name is Mikalai, I'm a senior backend developer at Ness.com. <br>I have more than 10 years of experience with Python and Linux ecosystem. Also I'm a certified AWS Cloud Practitioner
-- 🌱 I’m currently learning Golang
 
 
 ## 🌐 Socials:
