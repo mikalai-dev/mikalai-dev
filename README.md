@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Mikalai, I'm a senior backend developer at Ness.com.<br>I have more than 10 years of experience with Python and Linux ecosystem. <br>Also I'm a certified AWS Cloud Practitioner
+My name is Mikalai, I'm a senior backend developer at Ness.com.<br>I have more than 13 years of experience with Python and Linux ecosystem. <br>Also I'm a certified AWS Cloud Practitioner
 
 
 ## 🌐 Socials:
